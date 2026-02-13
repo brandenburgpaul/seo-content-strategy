@@ -37,10 +37,10 @@ cp -r seo-content-strategy ~/.claude/skills/
 
 ```bash
 # Project-level
-git clone https://github.com/YOUR_USERNAME/seo-content-strategy.git .claude/skills/seo-content-strategy
+git clone https://github.com/brandenburgpaul/seo-content-strategy.git .claude/skills/seo-content-strategy
 
 # User-level
-git clone https://github.com/YOUR_USERNAME/seo-content-strategy.git ~/.claude/skills/seo-content-strategy
+git clone https://github.com/brandenburgpaul/seo-content-strategy.git ~/.claude/skills/seo-content-strategy
 ```
 
 ## Usage
